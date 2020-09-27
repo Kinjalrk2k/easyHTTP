@@ -1,3 +1,12 @@
+/**
+ * easyHTTP library
+ * Library for making HTTP requests
+ *
+ * @version 1.0.0
+ * @author Kinjal Raykarmakar
+ * @license MIT
+ */
+
 function easyHTTP() {
   this.http = new XMLHttpRequest();
 }
